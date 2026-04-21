@@ -80,7 +80,7 @@ BINANCE_SECRET_KEY=your_secret_key
 
 ---
 
-## Future Improvements
+## Future Improvements (Personal Take)
 
 - Add position tracking and balance queries
 - Support additional order types (Stop-Limit, OCO, etc.)
