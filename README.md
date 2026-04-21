@@ -45,20 +45,23 @@ python cli.py BTCUSDT SELL LIMIT 0.001 --price 72500
 
 ## Project Structure
 
+```text
 trading_bot/
 │
 ├── bot/
-│   ├── client.py          # Placeholder for future API abstraction
-│   ├── orders.py          # Order execution logic using REST API
-│   ├── validators.py      # Input validation
-│   ├── logging_config.py  # Logging setup
+│   ├── client.py
+│   ├── orders.py
+│   ├── validators.py
+│   ├── logging_config.py
 │
 ├── sample.log
 │
-├── cli.py                 # Entry point
-├── ui.py                  # Lightweight UI
+├── cli.py
+├── ui.py
 ├── requirements.txt
 ├── README.md
+```
+
 ## Setup
 
 Install dependencies:
