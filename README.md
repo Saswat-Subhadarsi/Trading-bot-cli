@@ -53,7 +53,7 @@ trading_bot/
 │   ├── validators.py      # Input validation
 │   ├── logging_config.py  # Logging setup
 │
-│── sample.log
+├── sample.log
 │
 ├── cli.py                 # Entry point
 ├── ui.py                  # Lightweight UI
