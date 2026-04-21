@@ -21,7 +21,7 @@ The application supports MARKET and LIMIT orders with proper validation, structu
 
 Sample logs are available at:
 
-logs/sample.log
+sample.log
 
 ---
 
